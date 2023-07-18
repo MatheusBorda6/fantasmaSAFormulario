@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+}
+
+
+form{
+    text-align: center;
+}
+
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 70px;
+}
+
+
+label{
+    color: white;
+    font-size: 40px;
+}
